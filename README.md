@@ -1,2 +1,2 @@
 # NXG-Controls
-NXG style controls for LabVIEW 2017+.
+This package allows developpers to use the LabVIEW NXG Controls with LabVIEW 2017 and higher.

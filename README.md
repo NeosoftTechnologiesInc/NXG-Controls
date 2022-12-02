@@ -1,2 +1,2 @@
 # NXG-Controls
-NXG style controls for LabVIEW 2017+.
+This package allows developpers to use the NXG style controls and indicators to create front panels with the same style as LabVIEW NXG. The appearance of these controls and indicators changes depending on the platform on which the end user runs the VI.
